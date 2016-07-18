@@ -1,0 +1,14 @@
+{
+  "name": "resource-relay",
+  "version": "0.1.0",
+  "description": "An HTTP proxy that forwards requests with conventionally appended data with the goal of reducing boilerplate code.",
+  "main": "resource-relay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricky Ybarra",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.73.0"
+  }
+}
